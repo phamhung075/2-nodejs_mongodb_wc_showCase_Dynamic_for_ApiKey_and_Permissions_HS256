@@ -6,7 +6,7 @@ This is a personal project created based on the series of lessons by @anonystick
 
 `nodejs_mongodb_wc_showCase_auth_HS256` is a Node.js application showcasing user authentication and data management using MongoDB. It employs the HS256 algorithm for secure authentication, focusing on API key creation and usage.
 
-###[version use algorithm RS256](https://github.com/phamhung075/1-nodejs_mongodb_wc_showCase_SignUp-Shop-algorithm-RS256-JWT-keyToken-auth-RSA)
+### [version use algorithm RS256](https://github.com/phamhung075/1-nodejs_mongodb_wc_showCase_SignUp-Shop-algorithm-RS256-JWT-keyToken-auth-RSA)
 
 
 
